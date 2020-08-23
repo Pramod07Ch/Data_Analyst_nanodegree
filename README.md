@@ -16,4 +16,5 @@ Analyze twitter based data on dogs ratings
 ## Project 6  - Communicate findings
 Data based on bike rental startup - fordgobike which is used to analyze and communicate data findings in the data
 
-
+# Graduation certificate
+![image](data_analyst.jpg)
